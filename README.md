@@ -7,3 +7,13 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<html>
+<head>
+<title>Test Page</title>
+</head>
+<body>
+
+<p>This is a test HTML file.</p>
+
+</body>
+</html>
