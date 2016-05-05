@@ -1,13 +1,5 @@
 # quick-play-itunes
 
-<html>
-<head>
-<title>Test Page</title>
-</head>
-<body>
-
-<p>This is a test HTML file.</p>
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="PMJKZMLFFTZVQ">
@@ -15,6 +7,3 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
-</body>
-</html>
