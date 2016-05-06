@@ -21,7 +21,7 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XH
 </form>
 
 [Link](https://example.org/ "title" target="_blank")
-
+[link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW){:target="_blank"}
 <script>
     var links = document.querySelectorAll( '.post-content a' );  
     for (var i = 0, length = links.length; i < length; i++) {  
