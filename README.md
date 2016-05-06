@@ -9,6 +9,8 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PMJKZMLFFTZ
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW
 
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW" target="_blank">Send Money!</a> 
+
 [![paypal](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
