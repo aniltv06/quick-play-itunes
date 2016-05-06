@@ -1,6 +1,6 @@
 # quick-play-itunes
 
-<a rel="license" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PMJKZMLFFTZVQ" target="_top">
+<a rel="license"  target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PMJKZMLFFTZVQ">
 <img src="https://github.com/aniltv06/quick-play-itunes/blob/master/sendMoney.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
