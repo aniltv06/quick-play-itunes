@@ -32,16 +32,6 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XH
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<ul class="links column-2">
-        <li>
-        <a href="" onclick="document.getElementById('paypal').submit(); return false;">Donate on Paypal<img width="1" height="1" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" alt="">
-        <i class="icon-chevron-right"></i>
-        <form style="display:inline;" method="post" target="_blank" action="https://www.paypal.com/cgi-bin/webscr" id="paypal"><input type="hidden" value="_s-xclick" name="cmd">
-        <input type="hidden" value="AR3PTHLX8XHKW" name="hosted_button_id">
-        <input type="submit" value="Donate"/>
-        </form>
-        </a></li>
-      </ul>
 <!DOCTYPE html>
 <html lang=en>
 <head>
