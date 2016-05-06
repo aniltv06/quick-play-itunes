@@ -8,8 +8,15 @@
 </form>
 
 https://github.com/aniltv06/quick-play-itunes/blob/master/sendMoney.png
+<div class="item">
+    <a href="http://www.google.com">
+        <img src="https://www.google.com/intl/en_ALL/images/logos/images_logo_lg.gif" attributes="#"\>
+    </a>
+    <div class="popup" attributes="#">
+    </div>
+</div>
 
-<a rel="license" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PMJKZMLFFTZVQ">
+<a rel="license" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PMJKZMLFFTZVQ" target="_blank">
 <img src="https://github.com/aniltv06/quick-play-itunes/blob/master/sendMoney.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
