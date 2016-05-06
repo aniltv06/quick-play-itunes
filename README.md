@@ -75,3 +75,5 @@ The tag will create something like:
 ```
 
 I put the stylesheet for my own button in this gist, but you can do whatever you like for the appearance via CSS. The image for my version is [here](https://raw.github.com/ttscoff/JekyllPlugins/master/Donation/donation2.png).
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW)
