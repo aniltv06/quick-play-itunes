@@ -20,12 +20,6 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XH
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-[Google] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW){target="_blank"}
-<script>
-    var links = document.querySelectorAll( '.post-content a' );  
-    for (var i = 0, length = links.length; i < length; i++) {  
-        if (links[i].hostname != window.location.hostname) {
-            links[i].target = '_blank';
-        }
-    }
-</script>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XHKW" target="_blank">Pay Now</a>
+
+
