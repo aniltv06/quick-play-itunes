@@ -20,7 +20,7 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XH
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<a href="http://theli.nk" target="_blank">the text you see</a>
+[Link](https://example.org/ "title" target="_blank")
 
 <script>
     var links = document.querySelectorAll( '.post-content a' );  
