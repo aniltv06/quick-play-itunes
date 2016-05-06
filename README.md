@@ -19,3 +19,12 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AR3PTHLX8XH
 <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+<script>
+    var links = document.querySelectorAll( '.post-content a' );  
+    for (var i = 0, length = links.length; i < length; i++) {  
+        if (links[i].hostname != window.location.hostname) {
+            links[i].target = '_blank';
+        }
+    }
+</script>
